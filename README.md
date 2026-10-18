@@ -4,7 +4,7 @@ Parameterised Verilog model of the Xilinx (AMD) Spartan-6 **DSP48A1** slice, ver
 
 [![Project report](cover.png)](DSP48A1_Project_Report.pdf)
 
-**[Open the full project report (PDF)](docs/DSP48A1_Project_Report.pdf)**
+**[Open the full project report (PDF)](DSP48A1_Project_Report.pdf)**
 
 ## What is inside
 
